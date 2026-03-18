@@ -36,7 +36,7 @@ This dashboard provides an insightful analysis of Uber trips, focusing on trip d
 uber-trips-analysis/
 │
 ├── dashboard.pbix
-├── dashboard.png
+├── dashboard.jpeg
 ├── README.md
 └── insights.md
 ```
